@@ -117,7 +117,10 @@ collabwrite/
 └── .gitignore             # Files to ignore in Git
 ```
 
+## Author
 
+- **https://github.com/SUPREME-AKASH-DEVELOPER**
+  
 ## Future Enhancements
 
 - **Offline editing support**
