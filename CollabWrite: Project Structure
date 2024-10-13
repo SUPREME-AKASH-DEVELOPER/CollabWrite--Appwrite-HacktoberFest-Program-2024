@@ -1,0 +1,29 @@
+collabwrite/
+│
+├── backend/
+│   ├── controllers/
+│   │   └── documentController.js
+│   ├── models/
+│   │   └── Document.js
+│   ├── routes/
+│   │   └── documentRoutes.js
+│   ├── config/
+│   │   └── db.js
+│   ├── server.js
+│   └── package.json
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── Editor.js
+│   │   │   └── Chat.js
+│   │   ├── context/
+│   │   │   └── DocumentContext.js
+│   │   ├── services/
+│   │   │   └── documentService.js
+│   │   ├── App.js
+│   │   ├── index.js
+│   └── package.json
+│
+└── README.md
